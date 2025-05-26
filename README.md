@@ -1,4 +1,7 @@
 ## Hi there 👋
+![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhanisurya&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhanisurya&layout=compact)
 
 <!--
 **suhanisurya17/suhanisurya17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
