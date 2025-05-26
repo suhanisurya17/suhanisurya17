@@ -1,7 +1,7 @@
 ## Hi there 👋
-![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhanisurya&show_icons=true&count_private=true)
+![Suhani's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhanisurya17&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhanisurya&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhanisurya17&layout=compact)
 
 📫 Reach me at: [Email](mailto:ssurya@uwaterloo.ca) | [LinkedIn](https://linkedin.com/in/suhani-surya) | [Portfolio](https://yourportfolio.com)
 
