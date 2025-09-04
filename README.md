@@ -1,12 +1,6 @@
-## hi!! ♡ ₊˚ଘ(੭*ˊᵕˋ)੭* ̀ˋ
+## hellooo! ♡ ₊˚ଘ(੭*ˊᵕˋ)੭* ̀ˋ
 
-I'm Suhani Surya. I'm a Systems Design Engineering student @ UWaterloo with a love for building intentional products. I’m super curious, people-oriented, and always chasing that sweet spot between creativity and technical problem-solving 💡✨
-
-🌱 I’ve worn many hats in past roles
-→ At **Hatch**, I worked with rail systems engineers and simulatd train operations, as well as building tools that made team workflows smoother 🚉🛠  
-→ At **The Food Society Canada**, I helped bridge tech and storytelling to promote culturally diverse food systems 🥟📣
-
-💻 I’m currently exploring software, product, and infra roles for Fall 2025 and am always happy to connect over code, culture, or matcha recommendations 🍵 🌸
+I'm Suhani Surya. I'm a Systems Design Engineering student @ UWaterloo with a love for building intentional products. I’m super curious, people-oriented, and always chasing that sweet spot between creativity and technical problem-solving 
 
 ---
 
