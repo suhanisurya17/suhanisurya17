@@ -1,7 +1,6 @@
 ## hellooo! ♡ ₊˚ଘ(੭*ˊᵕˋ)੭* ̀ˋ
 
-I'm Suhani Surya. I'm a Systems Design Engineering student @ UWaterloo with a love for building intentional products. I’m super curious, people-oriented, and always chasing that sweet spot between creativity and technical problem-solving 
-
+I'm Suhani Surya. I'm a Systems Design Engineering student @ UWaterloo with a love for building intentional products.
 ---
 
 ### Let's Connect!
