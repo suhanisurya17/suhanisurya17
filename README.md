@@ -6,7 +6,7 @@ I'm Suhani Surya. I'm a Systems Design Engineering student @ UWaterloo with a lo
 ### Let's Connect!
 📫 [Email](mailto:ssurya@uwaterloo.ca)  
 🔗 [LinkedIn](https://linkedin.com/in/suhani-surya)  
-🪄 [Portfolio](https://suhanisurya17.github.io/suhani/) *(in progress!)*
+🪄 [Portfolio](https://suhanisurya.com) *(in progress!)*
 
 ---
 
